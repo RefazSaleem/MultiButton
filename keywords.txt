@@ -1,0 +1,16 @@
+MultiButton   KEYWORD1
+update        KEYWORD2
+setSinglePressCallback  KEYWORD2
+setDoublePressCallback  KEYWORD2
+setLongPressCallback  KEYWORD2
+setLongHoldCallback  KEYWORD2
+setReleaseFromHoldCallback  KEYWORD2
+ButtonState  KEYWORD1
+IDLE         KEYWORD3
+SINGLE_PRESS KEYWORD3
+DOUBLE_PRESS KEYWORD3
+LONG_PRESS   KEYWORD3
+LONG_HOLD    KEYWORD3
+PRESSED      KEYWORD3
+LONG_RELEASE KEYWORD3
+
